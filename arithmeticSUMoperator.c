@@ -1,6 +1,9 @@
 #include<stdio.h>
 int main()
 {
-    printf("Vansh\nVerma");
+    int x;
+    x=4+5;
+    printf("%d",x);
     return 0;
-} 
+
+}

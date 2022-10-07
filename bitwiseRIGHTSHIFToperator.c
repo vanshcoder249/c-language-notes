@@ -1,6 +1,8 @@
 #include<stdio.h>
 int main()
 {
-    printf("Vansh\nVerma");
+    int x;
+    x=56>>2;
+    printf("%d",x);
     return 0;
-} 
+}
